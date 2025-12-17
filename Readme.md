@@ -24,9 +24,10 @@ Compatible avec :
 ## 📦 Installation
 
 ```bash
-git clone <repo>
-cd fedapay-express
+git clone https://github.com/Godwill05/fedapay-npm.git
+cd fedapay-npm
 npm install
+npm run dev
 
 
 cp .env.example .env
